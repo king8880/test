@@ -2,5 +2,5 @@ package com.example.demo;
 
 public class Test {
 
-    private int z;
+    private int a;
 }
