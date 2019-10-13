@@ -46,3 +46,6 @@
 /.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml
 /.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml
 /.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml
+/.classpath
+/.project
+/target/
